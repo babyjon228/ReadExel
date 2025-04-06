@@ -1,5 +1,4 @@
 package com.example.demo2;
-import com.example.demo2.MonthS;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.scene.Scene;
